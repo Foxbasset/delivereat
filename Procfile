@@ -1,4 +1,4 @@
-web: node index.js
+web: node server.js
 
 heroku ps
 === web (Free): `node index.js`
